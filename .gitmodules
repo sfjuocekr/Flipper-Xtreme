@@ -58,3 +58,6 @@
 [submodule "applications/external/blackjack"]
 	path = applications/external/blackjack
 	url = https://github.com/teeebor/flipper_blackjack.git
+[submodule "applications/external/barcode_gen"]
+	path = applications/external/barcode_gen
+	url = https://github.com/Kingal1337/flipper-barcode-generator.git
