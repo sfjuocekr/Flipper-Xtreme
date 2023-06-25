@@ -64,3 +64,6 @@
 [submodule "applications/external/bomberduck"]
 	path = applications/external/bomberduck
 	url = https://github.com/leo-need-more-coffee/flipperzero-bomberduck.git
+[submodule "applications/external/bpmtapper"]
+	path = applications/external/bpmtapper
+	url = https://github.com/panki27/bpm-tapper.git
