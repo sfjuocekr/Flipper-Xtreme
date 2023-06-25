@@ -42,7 +42,7 @@ static const DolphinDeedWeight dolphin_deed_weights[] = {
     {1, DolphinAppPlugin}, // DolphinDeedPluginStart
 
     {1, DolphinAppGame}, // DolphinDeedPluginGameStart
-    {5, DolphinAppGame}, // DolphinDeedPluginGameWin
+    {3, DolphinAppGame}, // DolphinDeedPluginGameWin
 };
 
 static uint8_t dolphin_deed_limits[] = {
