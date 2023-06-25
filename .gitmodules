@@ -79,3 +79,6 @@
 [submodule "applications/external/cntdown_timer"]
 	path = applications/external/cntdown_timer
 	url = https://github.com/0w0mewo/fpz_cntdown_timer.git
+[submodule "applications/external/counter"]
+	path = applications/external/counter
+	url = https://github.com/plasticuproject/dolphin-better-counter.git
