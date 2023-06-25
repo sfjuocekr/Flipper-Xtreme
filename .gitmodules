@@ -70,3 +70,6 @@
 [submodule "applications/external/caesarcipher"]
 	path = applications/external/caesarcipher
 	url = https://github.com/panki27/caesar-cipher.git
+[submodule "applications/external/calculator"]
+	path = applications/external/calculator
+	url = https://github.com/sfjuocekr/flipper-tool-calculator
