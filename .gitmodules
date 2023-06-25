@@ -67,3 +67,6 @@
 [submodule "applications/external/bpmtapper"]
 	path = applications/external/bpmtapper
 	url = https://github.com/panki27/bpm-tapper.git
+[submodule "applications/external/brainfuck"]
+	path = applications/external/brainfuck
+	url = https://github.com/nymda/FlipperZeroBrainfuck.git
