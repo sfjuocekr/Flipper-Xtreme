@@ -40,6 +40,9 @@ static const DolphinDeedWeight dolphin_deed_weights[] = {
     {1, DolphinAppPlugin}, // DolphinDeedGpioUartBridge
 
     {1, DolphinAppPlugin}, // DolphinDeedPluginStart
+
+    {1, DolphinAppGame}, // DolphinDeedPluginGameStart
+    {5, DolphinAppGame}, // DolphinDeedPluginGameWin
 };
 
 static uint8_t dolphin_deed_limits[] = {
@@ -50,6 +53,7 @@ static uint8_t dolphin_deed_limits[] = {
     69, // DolphinAppIbutton
     69, // DolphinAppBadKb
     69, // DolphinAppPlugin
+    69, // DolphinAppGame
 };
 
 _Static_assert(COUNT_OF(dolphin_deed_weights) == DolphinDeedMAX, "dolphin_deed_weights size error");

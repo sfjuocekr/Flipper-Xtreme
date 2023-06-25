@@ -14,6 +14,7 @@ typedef enum {
     DolphinAppIbutton,
     DolphinAppBadKb,
     DolphinAppPlugin,
+    DolphinAppGame,
     DolphinAppMAX,
 } DolphinApp;
 
@@ -56,6 +57,9 @@ typedef enum {
     DolphinDeedGpioUartBridge,
 
     DolphinDeedPluginStart,
+
+    DolphinDeedGameStart,
+    DolphinDeedGameWin,
 
     DolphinDeedMAX,
 
