@@ -55,3 +55,6 @@
 [submodule "applications/external/asteroids"]
 	path = applications/external/asteroids
 	url = https://github.com/SimplyMinimal/FlipperZero-Asteroids.git
+[submodule "applications/external/blackjack"]
+	path = applications/external/blackjack
+	url = https://github.com/teeebor/flipper_blackjack.git
