@@ -43,3 +43,6 @@
 [submodule "assets/resources/infrared/Flipper-IRDB"]
 	path = assets/resources/infrared/Flipper-IRDB
 	url = https://github.com/logickworkshop/Flipper-IRDB
+[submodule "applications/external/4inrow"]
+	path = applications/external/4inrow
+	url = https://github.com/leo-need-more-coffee/flipperzero-4inrow.git
