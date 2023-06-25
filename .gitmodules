@@ -52,3 +52,6 @@
 [submodule "applications/external/airmouse"]
 	path = applications/external/airmouse
 	url = https://github.com/ginkage/FlippAirMouse.git
+[submodule "applications/external/asteroids"]
+	path = applications/external/asteroids
+	url = https://github.com/SimplyMinimal/FlipperZero-Asteroids.git
