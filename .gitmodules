@@ -61,3 +61,6 @@
 [submodule "applications/external/barcode_gen"]
 	path = applications/external/barcode_gen
 	url = https://github.com/Kingal1337/flipper-barcode-generator.git
+[submodule "applications/external/bomberduck"]
+	path = applications/external/bomberduck
+	url = https://github.com/leo-need-more-coffee/flipperzero-bomberduck.git
