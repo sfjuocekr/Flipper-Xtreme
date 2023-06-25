@@ -76,3 +76,6 @@
 [submodule "applications/external/cli_bridge"]
 	path = applications/external/cli_bridge
 	url = https://github.com/ranchordo/flipperzero-cli-bridge.git
+[submodule "applications/external/cntdown_timer"]
+	path = applications/external/cntdown_timer
+	url = https://github.com/0w0mewo/fpz_cntdown_timer.git
