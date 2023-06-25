@@ -46,3 +46,6 @@
 [submodule "applications/external/4inrow"]
 	path = applications/external/4inrow
 	url = https://github.com/sfjuocekr/flipper-game-4inrow
+[submodule "applications/external/arkanoid"]
+	path = applications/external/arkanoid
+	url = https://github.com/sfjuocekr/flipper-game-arkanoid
