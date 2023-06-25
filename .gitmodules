@@ -49,3 +49,6 @@
 [submodule "applications/external/arkanoid"]
 	path = applications/external/arkanoid
 	url = https://github.com/sfjuocekr/flipper-game-arkanoid
+[submodule "applications/external/airmouse"]
+	path = applications/external/airmouse
+	url = https://github.com/ginkage/FlippAirMouse.git
