@@ -25,9 +25,6 @@
 [submodule "lib/cxxheaderparser"]
 	path = lib/cxxheaderparser
 	url = https://github.com/robotpy/cxxheaderparser.git
-[submodule "applications/external/dap_link/lib/free-dap"]
-	path = applications/external/dap_link/lib/free-dap
-	url = https://github.com/ataradov/free-dap.git
 [submodule "lib/heatshrink"]
 	path = lib/heatshrink
 	url = https://github.com/flipperdevices/heatshrink.git
@@ -82,3 +79,6 @@
 [submodule "applications/external/counter"]
 	path = applications/external/counter
 	url = https://github.com/plasticuproject/dolphin-better-counter.git
+[submodule "applications/external/dap_link"]
+	path = applications/external/dap_link
+	url = https://github.com/DrZlo13/flipper_zero_dap_link.git
