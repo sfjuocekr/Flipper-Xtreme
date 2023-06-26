@@ -69,7 +69,7 @@
 	url = https://github.com/panki27/caesar-cipher.git
 [submodule "applications/external/calculator"]
 	path = applications/external/calculator
-	url = https://github.com/sfjuocekr/flipper-tool-calculator
+	url = https://github.com/sfjuocekr/flipper-app-calculator
 [submodule "applications/external/cli_bridge"]
 	path = applications/external/cli_bridge
 	url = https://github.com/ranchordo/flipperzero-cli-bridge.git
