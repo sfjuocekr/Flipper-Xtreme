@@ -82,3 +82,6 @@
 [submodule "applications/external/dap_link"]
 	path = applications/external/dap_link
 	url = https://github.com/DrZlo13/flipper_zero_dap_link.git
+[submodule "applications/external/doom"]
+	path = applications/external/doom
+	url = https://github.com/p4nic4ttack/doom-flipper-zero.git
